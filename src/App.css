@@ -1,0 +1,30 @@
+.title {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  max-width: 800px;
+  margin-inline: auto;
+  margin-top: 3rem;
+}
+
+.button {
+  padding: 0.6rem 1rem;
+  border-radius: 1rem;
+}
+
+.fact-text {
+  padding: 1rem;
+  background-color: rgba(128, 128, 128, 0.336);
+}
+
+.figure-wrapper .cat-img {
+  background-color: bisque;
+  max-width: 600px;
+}
